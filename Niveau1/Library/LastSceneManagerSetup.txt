@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/First_map_after_elevator_crash.unity
+  isLoaded: 1
+  isActive: 1
